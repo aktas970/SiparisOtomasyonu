@@ -1,0 +1,41 @@
+c:\users\ismail aktaş\documents\visual studio 2013\Projects\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Sipariş Uygulaması.exe.config
+c:\users\ismail aktaş\documents\visual studio 2013\Projects\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Sipariş Uygulaması.exe
+c:\users\ismail aktaş\documents\visual studio 2013\Projects\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Sipariş Uygulaması.pdb
+c:\users\ismail aktaş\documents\visual studio 2013\Projects\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.csprojResolveAssemblyReference.cache
+c:\users\ismail aktaş\documents\visual studio 2013\Projects\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş_Uygulaması.Form1.resources
+c:\users\ismail aktaş\documents\visual studio 2013\Projects\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş_Uygulaması.Properties.Resources.resources
+c:\users\ismail aktaş\documents\visual studio 2013\Projects\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.csproj.GenerateResource.Cache
+c:\users\ismail aktaş\documents\visual studio 2013\Projects\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.exe
+c:\users\ismail aktaş\documents\visual studio 2013\Projects\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.pdb
+C:\Users\ismail aktaş\documents\visual studio 2013\Projects\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Form2.resx
+C:\Users\ismail aktaş\documents\visual studio 2013\Projects\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Form2.cs
+C:\Users\ismail aktaş\documents\visual studio 2013\Projects\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Form2.Designer.cs
+C:\Users\ismail aktaş\documents\visual studio 2013\Projects\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş_Uygulaması.Form2.resources
+D:\Visual Studio\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Form2.resx
+D:\Visual Studio\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Form2.Designer.cs
+D:\Visual Studio\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Form2.cs
+D:\Visual Studio\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Sipariş Uygulaması.exe.config
+D:\Visual Studio\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Sipariş Uygulaması.exe
+D:\Visual Studio\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Sipariş Uygulaması.pdb
+D:\Visual Studio\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.csprojAssemblyReference.cache
+D:\Visual Studio\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş_Uygulaması.Form1.resources
+D:\Visual Studio\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş_Uygulaması.Form2.resources
+D:\Visual Studio\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş_Uygulaması.Properties.Resources.resources
+D:\Visual Studio\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.csproj.GenerateResource.cache
+D:\Visual Studio\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.exe
+D:\Visual Studio\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.pdb
+D:\Bitmiş Projeler\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Form2.resx
+D:\Bitmiş Projeler\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Form2.cs
+D:\Bitmiş Projeler\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Form2.Designer.cs
+D:\Bitmiş Projeler\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Sipariş Uygulaması.exe.config
+D:\Bitmiş Projeler\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Sipariş Uygulaması.exe
+D:\Bitmiş Projeler\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Sipariş Uygulaması.pdb
+D:\Bitmiş Projeler\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.csprojAssemblyReference.cache
+D:\Bitmiş Projeler\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş_Uygulaması.Form1.resources
+D:\Bitmiş Projeler\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş_Uygulaması.Form2.resources
+D:\Bitmiş Projeler\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş_Uygulaması.Properties.Resources.resources
+D:\Bitmiş Projeler\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.csproj.GenerateResource.cache
+D:\Bitmiş Projeler\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.csproj.CoreCompileInputs.cache
+D:\Bitmiş Projeler\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.exe
+D:\Bitmiş Projeler\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.pdb
